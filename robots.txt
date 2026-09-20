@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://us-csv-column-extractor.enjoy-onepage.com/sitemap.xml
